@@ -1,0 +1,1 @@
+This project includes HTML, CSS, and Javascript. It is a weather app that displays the weather of any city the user speciifies. This project uses an API from Openweathermap to fetch the weather information from.
